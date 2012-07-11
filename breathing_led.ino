@@ -1,4 +1,4 @@
-// creating a led that breathes ala apple's laptops http://1.usa.gov/LeCBpl
+// creating an led that breathes ala apple's laptops http://1.usa.gov/LeCBpl
 // using a 220 ohm resistor
 
 int ledPin = 3;
