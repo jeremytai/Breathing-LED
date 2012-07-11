@@ -1,4 +1,4 @@
 Breathing-LED
 =============
 
-Getting an LED to look like it's breathing ala the Apple MacBook
+Getting an LED in Arduino to look like it's breathing ala the Apple MacBook
